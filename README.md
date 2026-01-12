@@ -9,12 +9,12 @@
 ###
 ```json
 {
-  "title": "Software Engineer ~ Full Stack",
-  "interest": ["Gen AI", "AI Agents", "System Design", "Cloud"],
+  "title": "Software Engineer ~ MERN Stack Developer",
+  "interest": ["Web Dev", "Solidity", "BlockChain", "SOC Analyst"],
   "skills": {
     "Frontend": ["React/Next JS"],
-    "Backend": ["Django/DRF", "Flask", "FastAPI"],
-    "Deployment": ["AWS", "Hostinger", "Railway", "Render", "Vercel"]
+    "Backend": ["MongoDB", "Nodejs", "Express"],
+    "Deployment": ["AWS", "Hostinger", "Render", "Vercel"]
   },
 }
 ```
