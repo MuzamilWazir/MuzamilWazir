@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="/image.svg"  />
-</div>
-
 ###
 ```json
 {
@@ -22,6 +18,9 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="/image.svg"  />
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/wazir-muhammad-muzammil-6a2148251/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
