@@ -14,7 +14,7 @@
   },
 }
 ```
-<p align="center">My name is Wazir Muzammil and I’m a Software Engineer and AI Enthusiast from Pakistan.</p>
+
 
 ###
 
