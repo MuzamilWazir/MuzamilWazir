@@ -7,7 +7,17 @@
 </div>
 
 ###
-
+```json
+{
+  "title": "Software Engineer ~ Full Stack",
+  "interest": ["Gen AI", "AI Agents", "System Design", "Cloud"],
+  "skills": {
+    "Frontend": ["React/Next JS"],
+    "Backend": ["Django/DRF", "Flask", "FastAPI"],
+    "Deployment": ["AWS", "Hostinger", "Railway", "Render", "Vercel"]
+  },
+}
+```
 <p align="center">My name is Wazir Muzammil and I’m a Software Engineer and AI Enthusiast from Pakistan.</p>
 
 ###
